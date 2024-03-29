@@ -25,7 +25,7 @@ char *my_strstr( char *str1, char *str2)
 	}
 }
  
- 
+ // modifying this file
 int main()
 {
 	char s1[]="Hello World";
